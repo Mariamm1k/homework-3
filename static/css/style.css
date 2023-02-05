@@ -1,0 +1,153 @@
+
+header{
+    border-bottom: 1px solid black;
+}
+
+ul{
+    padding: 30px 450px;
+}
+
+li{   
+    display: inline;
+    margin-right: 65px;
+}
+
+a{
+    color: black;
+    font-weight: bold;
+    text-decoration: none;
+    list-style: none;
+    font-family: 'Poppins', sans-serif;
+    font-size: 18px;
+}
+
+h1{
+    font-size: 24px;
+    padding: 100px 120px 20px 120px;
+    font-family: 'Poppins', sans-serif;
+    margin-left: 350px
+}
+.content-section{
+    padding: 150px 12px 200px 100px;
+}
+
+.content-container{
+    display: inline-block;
+}
+
+.content-container.middle{
+    margin: 0 100px;
+}
+
+.product-div{
+    border: 1px solid black;
+    display: inline-block;
+    width: 333px;
+    padding: 15px 15px 25px 15px;
+}
+.product-div h5{
+    margin: 15px 0;
+    line-height: 24px;
+    font-family: 'Poppins', sans-serif;
+    text-transform: uppercase;
+    font-weight:700;
+}
+
+.product-div p{
+    font-size: 14px;
+    font-family: 'Poppins', sans-serif;
+}
+
+.product-div h5,
+.product-div p{
+margin-left: 10px;
+}
+
+.product-div img{
+    width:100%
+}
+
+.button-div button{
+    font-size: 12px;
+    line-height: 18px;
+    padding: 6px 26px;
+    border: 1px solid black;
+    background-color: white;
+    border-radius: 4px;
+}
+
+.button-div{
+    text-align: right;
+    margin-top: 20px;
+}
+.list-section{
+    padding: 62px 130px ;
+
+}
+
+.list-container{
+    display: inline-block;
+}
+
+.text-container.middle{
+    margin: 0 100px;
+}
+
+
+/* About Page css */
+
+
+.about-div{
+    padding: 100px 200px ;
+    margin: 100px;
+    
+}
+h6{     
+    margin-left: 30%;
+    margin-bottom: 115px;
+    font-size: 40px; 
+    font-family: 'Open Sans', sans-serif;
+    color:#7D0000   
+}
+
+.address-container{
+    padding: 60px;
+    font-size:  25px;
+    font-family: 'Open Sans', sans-serif;
+}
+
+address{
+    margin-top: 60px;
+    font-style: italic;
+}
+
+
+
+
+/* Contact page css */
+
+
+.contact-div{
+    padding: 100px 600px;
+
+} 
+
+.contact-div h3{
+    font-size: 30px;
+    color: #7D0000;
+    font-family: 'Open Sans', sans-serif;;
+} 
+
+.adress-container{
+    margin-left: 175px;
+    padding-top: -200px;
+}
+
+.adress-container p{
+    padding: 26px;
+} 
+
+.address-container a{
+    font-style: italic,;
+}
+
